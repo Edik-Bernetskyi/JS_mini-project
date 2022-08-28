@@ -1,0 +1,28 @@
+.postInfoDiv{
+    width: 1400px;
+    padding: 50px;
+    font-size: 35px;
+    background: red;
+    border: 10px solid blue;
+    color: white;
+    border-radius: 100px;
+}
+
+.com {
+    width: 1475px;
+    background: white;
+    border: 10px solid white;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 15px;
+    padding-right: 25px;
+}
+
+div{
+    font-size: 20px;
+    width: 23%;
+    border: 10px solid blue;
+    margin: 3px;
+    background: aqua;
+}
